@@ -1,19 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NLayer.Core.Abstarct
+﻿namespace NLayer.Core.Abstarct
 {
     public abstract class BaseEntity
     {
-        public int Id { get; set; } 
+        public int Id { get; set; }
         public double? Number1 { get; set; }
         public double? Number2 { get; set; }
         public double? Number3 { get; set; }
         public double? Number4 { get; set; }
-        public double? Number5 { get; set; } 
+        public double? Number5 { get; set; }
         public string? Explanation1 { get; set; }
         public string? Explanation2 { get; set; }
         public string? Explanation3 { get; set; }
@@ -23,7 +17,7 @@ namespace NLayer.Core.Abstarct
         public DateTime CreateDate { get; set; } = DateTime.Now;
         public DateTime UpdateDate { get; set; } = DateTime.Now;
 
-        public bool Status { get; set; } = false;
+        public Boolean Status { get; set; } = false;
 
     }
 }

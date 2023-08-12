@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NLayer.Core.Abstarct
+﻿namespace NLayer.Core.Abstarct
 {
     public abstract class BaseDto
     {
@@ -18,9 +12,9 @@ namespace NLayer.Core.Abstarct
         public string? Explanation2 { get; set; }
         public string? Explanation3 { get; set; }
         public string? Explanation4 { get; set; }
-        public string? Explanation5 { get; set; } 
-        public DateTime CreateDate { get; set; }  
-        public DateTime UpdateDate { get; set; }   
-        public bool Status { get; set; }  
+        public string? Explanation5 { get; set; }
+        public DateTime CreateDate { get; set; }
+        public DateTime UpdateDate { get; set; }
+        public Boolean Status { get; set; }
     }
 }
