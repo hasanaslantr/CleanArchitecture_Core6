@@ -2,7 +2,7 @@
 
 namespace NLayer.Core.GenericRepositories
 {
-    public interface IGenericrepository<T> where T : class
+    public interface IGenericRepository<T> where T : class
     {
 
         #region IQueryable, nedir nasıl kullanılır?
@@ -29,7 +29,7 @@ namespace NLayer.Core.GenericRepositories
          döndürebileceği bir yöntem olan GetEnumerator() yöntemini içermesi gereken bir arabirimdir. 
          Bu yöntem, koleksiyonun her elemanını sırayla döndüren bir "enumerator" (numaralandırıcı) nesnesi döndürmelidir. 
          */
-        #endregion  
+        #endregion
 
         IQueryable<T> GetAll();
         Task<T> GetByIdAsycn(int id);
@@ -41,5 +41,6 @@ namespace NLayer.Core.GenericRepositories
         void Update(T entity);
         void Remove(T entity);
         void RemoveRange(IEnumerable<T> entites);
+
     }
 }
