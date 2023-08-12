@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace NLayer.Core.Repositories
 {
-    public interface ICustomerTypeREpositories:IGenericRepository<CustomerType>
+    public interface ICustomerTypeREpositories:IGenericrepository<CustomerType>
     {
     }
 }

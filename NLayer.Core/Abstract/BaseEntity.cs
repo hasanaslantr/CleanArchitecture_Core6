@@ -1,6 +1,6 @@
-﻿namespace NLayer.Core.Abstarct
+﻿namespace NLayer.Core.Abstract
 {
-    public abstract class BaseDto
+    public abstract class BaseEntity
     {
         public int Id { get; set; }
         public double? Number1 { get; set; }
@@ -13,8 +13,11 @@
         public string? Explanation3 { get; set; }
         public string? Explanation4 { get; set; }
         public string? Explanation5 { get; set; }
-        public DateTime CreateDate { get; set; }
-        public DateTime UpdateDate { get; set; }
-        public Boolean Status { get; set; }
+
+        public DateTime CreateDate { get; set; } = DateTime.Now;
+        public DateTime UpdateDate { get; set; } = DateTime.Now;
+
+        public Boolean Status { get; set; } = false;
+
     }
 }

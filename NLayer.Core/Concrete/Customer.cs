@@ -1,4 +1,5 @@
-﻿using NLayer.Core.Abstarct;
+﻿ 
+using NLayer.Core.Abstract;
 
 namespace NLayer.Core.Concrete
 {

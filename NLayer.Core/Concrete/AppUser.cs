@@ -1,6 +1,8 @@
-﻿namespace NLayer.Core.Concrete
+﻿using Microsoft.AspNetCore.Identity;
+
+namespace NLayer.Core.Concrete
 {
-    public class AppUser
+    public class AppUser : IdentityUser<int>
     {
         public string? Name { get; set; }
         public string? SurName { get; set; }

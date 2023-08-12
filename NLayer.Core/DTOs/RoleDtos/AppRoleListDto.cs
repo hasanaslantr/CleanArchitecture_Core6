@@ -1,4 +1,4 @@
-﻿using NLayer.Core.Concrate;
+﻿using NLayer.Core.Concrete;
 
 namespace NLayer.Core.DTOs.RoleDtos
 {

@@ -3,7 +3,7 @@ using NLayer.Core.GenericRepositories;
 
 namespace NLayer.Core.Repositories
 {
-    public interface IAppUserRepository : IGenericRepository<AppUser>
+    public interface IAppUserRepository : IGenericrepository<AppUser>
     {
         Task<List<AppUser>> ListTogether();
     }
