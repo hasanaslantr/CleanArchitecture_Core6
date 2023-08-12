@@ -5,6 +5,9 @@ namespace NLayer.Core.Concrete
     public class Customer : BaseEntity
     {
         public string Name { get; set; }
+        public int CustomerTypeId { get; set; }
+        public virtual CustomerType CustomerType { get; set; }
+
         public string SurName { get; set; }
         public string Email { get; set; }
         public string? Phone { get; set; }
