@@ -5,7 +5,9 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLayer.Core", "NLayer.Core\NLayer.Core.csproj", "{06BCCD7B-3D84-4407-99F1-D968A008D780}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayer.Repository", "NLayer.Repository\NLayer.Repository.csproj", "{FC3DF7F5-4A13-4945-91B9-DA5DC9F699F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLayer.Repository", "NLayer.Repository\NLayer.Repository.csproj", "{FC3DF7F5-4A13-4945-91B9-DA5DC9F699F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayer.Service", "NLayer.Service\NLayer.Service.csproj", "{7C4DB616-BC9E-46C0-A8DA-B2E63EEF8AFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FC3DF7F5-4A13-4945-91B9-DA5DC9F699F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC3DF7F5-4A13-4945-91B9-DA5DC9F699F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC3DF7F5-4A13-4945-91B9-DA5DC9F699F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4DB616-BC9E-46C0-A8DA-B2E63EEF8AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4DB616-BC9E-46C0-A8DA-B2E63EEF8AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4DB616-BC9E-46C0-A8DA-B2E63EEF8AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4DB616-BC9E-46C0-A8DA-B2E63EEF8AFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
