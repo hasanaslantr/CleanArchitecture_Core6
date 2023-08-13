@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NLayer.Repository.Token
 {
-    internal class TokenHandler
+    public class TokenHandler
     {
     }
 }
