@@ -14,7 +14,7 @@ namespace NLayer.Service.GenericManager
 {
     public class Service<T> : IGenericService<T> where T : class
     {
-        private readonly IGenericrepository<T> _repository;
+        private readonly IGenericRepository<T> _repository;
         private readonly IUnitOfWork _unitOfWork;
 
         public Service(GenericRepositoy<T> repository, IUnitOfWork unitOfWork)

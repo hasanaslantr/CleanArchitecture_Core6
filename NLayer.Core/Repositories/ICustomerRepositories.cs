@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace NLayer.Core.Repositories
 {
-    public interface ICustomerRepositories:IGenericrepository<Customer>
+    public interface ICustomerRepositories: IGenericRepository<Customer>
     {
         Task<List<Customer>> ListTogether();
     }

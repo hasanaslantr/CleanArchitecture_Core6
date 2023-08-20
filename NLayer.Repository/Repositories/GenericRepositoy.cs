@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace NLayer.Repository.Repositories
 {
-    public class GenericRepositoy<T>:IGenericrepository<T> where T:class
+    public class GenericRepositoy<T>:IGenericRepository<T> where T:class
     {
         protected readonly AppDbContext _context;
 

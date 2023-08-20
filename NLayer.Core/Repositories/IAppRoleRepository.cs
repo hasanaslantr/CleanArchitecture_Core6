@@ -3,7 +3,7 @@ using NLayer.Core.GenericRepositories;
 
 namespace NLayer.Core.Repositories
 {
-    public interface IAppRoleRepository : IGenericrepository<AppRole>
+    public interface IAppRoleRepository : IGenericRepository<AppRole>
     {
     }
 }

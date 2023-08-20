@@ -1,8 +1,12 @@
-﻿using System.Linq.Expressions;
+﻿using System.Collections.Generic;
+using System.Linq;
+using System;
+using System.Linq.Expressions;
+using System.Threading.Tasks;
 
 namespace NLayer.Core.GenericRepositories
 {
-    public interface IGenericrepository<T> where T : class
+    public interface IGenericRepository<T> where T : class
     {
 
         #region IQueryable, nedir nasıl kullanılır?
@@ -29,8 +33,7 @@ namespace NLayer.Core.GenericRepositories
          döndürebileceği bir yöntem olan GetEnumerator() yöntemini içermesi gereken bir arabirimdir. 
          Bu yöntem, koleksiyonun her elemanını sırayla döndüren bir "enumerator" (numaralandırıcı) nesnesi döndürmelidir. 
          */
-        #endregion  
-
+        #endregion
         IQueryable<T> GetAll();
         Task<T> GetByIdAsycn(int id);
         Task<T> GetByIdsAsycn(int id, int id2);
