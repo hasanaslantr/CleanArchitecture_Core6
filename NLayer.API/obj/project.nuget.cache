@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8OaZkVQlJ9WB0REt6SQ+knhfxkvcGHywqGCGw0CEPq7dKMAy6FsPoz7DcPaLPnZU55qUwTipY+tTRD1rA0Xghw==",
+  "dgSpecHash": "FeEG1k8GfTMUfUXZllZDz/CUCdQnKvAUem5iSIdRl6msRyf6Fzo2FsDYlkA0pkv7ULiA/9D3gYzD5hnSZyrrKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.API\\NLayer.API.csproj",
+  "projectFilePath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.API\\NLayer.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fakia\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\fakia\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",

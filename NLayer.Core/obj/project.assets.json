@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Core\\NLayer.Core.csproj",
+      "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Core\\NLayer.Core.csproj",
       "projectName": "NLayer.Core",
-      "projectPath": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Core\\NLayer.Core.csproj",
+      "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Core\\NLayer.Core.csproj",
       "packagesPath": "C:\\Users\\fakia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Core\\obj\\",
+      "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fakia\\AppData\\Roaming\\NuGet\\NuGet.Config",

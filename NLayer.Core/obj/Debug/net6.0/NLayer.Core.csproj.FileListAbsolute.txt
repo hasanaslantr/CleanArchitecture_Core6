@@ -10,3 +10,15 @@ C:\Users\fakia\Downloads\UdemyNLayerApp-AspNetAPI-MVC\UdemyNLayerApp-AspNetAPI-M
 C:\Users\fakia\Downloads\UdemyNLayerApp-AspNetAPI-MVC\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
 C:\Users\fakia\Downloads\UdemyNLayerApp-AspNetAPI-MVC\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
 C:\Users\fakia\Downloads\UdemyNLayerApp-AspNetAPI-MVC\UdemyNLayerApp-AspNetAPI-MVC\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
+C:\Users\fakia\OneDrive\Masaüstü\CleanArchitecture_Core6\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+C:\Users\fakia\OneDrive\Masaüstü\CleanArchitecture_Core6\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\fakia\OneDrive\Masaüstü\CleanArchitecture_Core6\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\fakia\OneDrive\Masaüstü\CleanArchitecture_Core6\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\fakia\OneDrive\Masaüstü\CleanArchitecture_Core6\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fakia\OneDrive\Masaüstü\CleanArchitecture_Core6\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\fakia\OneDrive\Masaüstü\CleanArchitecture_Core6\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\fakia\OneDrive\Masaüstü\CleanArchitecture_Core6\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\fakia\OneDrive\Masaüstü\CleanArchitecture_Core6\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+C:\Users\fakia\OneDrive\Masaüstü\CleanArchitecture_Core6\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+C:\Users\fakia\OneDrive\Masaüstü\CleanArchitecture_Core6\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+C:\Users\fakia\OneDrive\Masaüstü\CleanArchitecture_Core6\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll

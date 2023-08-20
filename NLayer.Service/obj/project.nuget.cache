@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HBUeUelogHtdkrv5Vfd8JLcz7bIgc7EilqU46TjBz5lxSF2WctnbYEqhNJZ9z4QjKNzRgDHjA49UUii/koxR8g==",
+  "dgSpecHash": "NzrIq5adBHhF98/WIX6UFMDhOz6EyWez2hNGES5kVrdzmJHQN5UZQCR2mU3ZnLXNQmi08HwHRs3sS6Cep42Vhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Service\\NLayer.Service.csproj",
+  "projectFilePath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Service\\NLayer.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fakia\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\fakia\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
