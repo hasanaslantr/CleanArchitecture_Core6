@@ -1,22 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YX6fWUF8/LjvP9X5Dmy2X/3aF4THiwqkwXV1wNs287ZavljWrdqDhEPbtK7bxAJLTW8O2sTmMUg9BgT/x7LqWg==",
+  "dgSpecHash": "8YF2+AEYCLydEyrRqKuJ0UqZZ+C2QZHHGaKs5bi36S5FZeZpR9HtflLNMT6AorJefSvrTCihjBM8LJfMla+N4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Core\\NLayer.Core.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\fakia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.20\\microsoft.aspnetcore.cryptography.internal.6.0.20.nupkg.sha512",
-    "C:\\Users\\fakia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.20\\microsoft.aspnetcore.cryptography.keyderivation.6.0.20.nupkg.sha512",
-    "C:\\Users\\fakia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\fakia\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
-    "C:\\Users\\fakia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\fakia\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.20\\microsoft.extensions.identity.core.6.0.20.nupkg.sha512",
-    "C:\\Users\\fakia\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.20\\microsoft.extensions.identity.stores.6.0.20.nupkg.sha512",
-    "C:\\Users\\fakia\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "C:\\Users\\fakia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\fakia\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\fakia\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\fakia\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "C:\\Users\\fakia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Core\\NLayer.Core.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
