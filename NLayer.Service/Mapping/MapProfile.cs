@@ -1,8 +1,6 @@
-﻿using AutoMapper; 
-using NLayer.Core.Concrete;
-using NLayer.Core.DTOs.AccountDtos; 
-using static System.Formats.Asn1.AsnWriter;
-using System.Security.Claims;
+﻿using AutoMapper;
+using NLayer.Core;
+using NLayer.Core.DTOs;
 
 namespace NLayer.Service.Mapping
 {
@@ -10,7 +8,12 @@ namespace NLayer.Service.Mapping
     {
         public MapProfile()
         {
-            CreateMap<AppUser, AppUserDto>().ReverseMap(); 
+            CreateMap<Product, ProductDto>().ReverseMap();
+            CreateMap<Category, CategoryDto>().ReverseMap();
+            CreateMap<ProductFeature, ProductFeatureDto>().ReverseMap();
+            CreateMap<ProductUpdateDto, Product>();
+            CreateMap<Product, ProductWithCategoryDto>();
+            CreateMap<Category, CategoryWithProductsDto>();
         }
     }
 }
