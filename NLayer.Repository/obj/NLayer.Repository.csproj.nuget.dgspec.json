@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Repository\\NLayer.Repository.csproj": {}
+    "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Repository\\NLayer.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Core\\NLayer.Core.csproj": {
+    "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Core\\NLayer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Core\\NLayer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Core\\NLayer.Core.csproj",
         "projectName": "NLayer.Core",
-        "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Core\\NLayer.Core.csproj",
+        "projectPath": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Core\\NLayer.Core.csproj",
         "packagesPath": "C:\\Users\\fakia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Core\\obj\\",
+        "outputPath": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fakia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,12 +41,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.Extensions.Identity.Stores": {
-              "target": "Package",
-              "version": "[6.0.20, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -67,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Repository\\NLayer.Repository.csproj": {
+    "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Repository\\NLayer.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Repository\\NLayer.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Repository\\NLayer.Repository.csproj",
         "projectName": "NLayer.Repository",
-        "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Repository\\NLayer.Repository.csproj",
+        "projectPath": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Repository\\NLayer.Repository.csproj",
         "packagesPath": "C:\\Users\\fakia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Repository\\obj\\",
+        "outputPath": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fakia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +87,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Core\\NLayer.Core.csproj": {
-                "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\CleanArchitecture_Core6\\NLayer.Core\\NLayer.Core.csproj"
+              "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Core\\NLayer.Core.csproj": {
+                "projectPath": "C:\\Users\\fakia\\Downloads\\UdemyNLayerApp-AspNetAPI-MVC\\UdemyNLayerApp-AspNetAPI-MVC\\NLayer.Core\\NLayer.Core.csproj"
               }
             }
           }
@@ -109,27 +103,19 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Identity": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.20, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.20, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.20, )"
+              "version": "[6.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.20, )"
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
             }
           },
           "imports": [
